@@ -1,11 +1,7 @@
-# @irfansharif's dotfiles
+# @jishansharif's dotfiles
 
 A documented history of needlessly meddling about configuration files
 hoping to save time lost via meddling about configuration files.
-
-## Credit
-- Girlfriend, friends & family for coexisting with me as I foam at mouth
-  mumbling about the tao of tmux/vim or about 'being in the zone' or something
 
 ## Setup, Backup/Restore
 ```sh
